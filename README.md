@@ -12,6 +12,8 @@ Hello, everyone! I am an experienced Android penetration testing expert who has 
 
 ## Certifications
 
+- Certified API Security Specialist (CASS) 
+- eLearnSecurity Mobile Application Penetration Tester (eMAPT) 
 - Mobile Application Security and Penetration Testing Certification (MASPT)
 - Offensive Security Wireless Professional (OSWP) Certification
 - GIAC Mobile Device Security Analyst (GMOB)
